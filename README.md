@@ -9,7 +9,9 @@
 ###
 
 <p align="left">🎮 Sono Un ragazzo molto curioso e da sempre interessato alla tecnologia in tutti i suoi aspetti. Mi sono appassionato alla programmazione full stack, desiderando esplorare e sviluppare applicazioni complete su entrambi i fronti, front-end e back-end.<br>
+  <br>
 👨🏻‍💻 Ho frequentato le tech academy di Boolean, acquisendo competenze nell'utilizzo di tecnologie sia front-end che back-end, ma soprattutto il mindset utile ad apprenderne altre in futuro.<br>
+  <br>
 🌱 Desidero specializzarmi ulteriormente e sono alla ricerca di opportunità in ambienti professionali, dove potermi mettere alla prova con progetti di ampio respiro.</p>
 
 ###
