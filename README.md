@@ -9,7 +9,7 @@
 ### 📌 Chi sono
 
 <p align="left">Mi chiamo Federico, appassionato di tecnologia e sviluppo web.  
-Durante l’università ho scoperto il mondo della programmazione e, dopo il bootcamp Boolean, ho deciso di specializzarmi come **Full Stack Developer** .
+Durante l’università ho scoperto il mondo della programmazione e, dopo il bootcamp Boolean, ho deciso di specializzarmi come Full Stack Developer.
 <br>
 
 Oggi sto approfondendo lo **stack MERN** (MongoDB, Express, React, Node.js).
