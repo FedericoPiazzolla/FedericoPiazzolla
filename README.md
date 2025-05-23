@@ -28,14 +28,18 @@ Cerco opportunità dove poter crescere, contribuire e costruire progetti reali.<
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right: 10px;" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px;" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin-right: 10px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" style="margin-right: 10px;" alt="Bootstrap" />
+  <div style="display:inline-block; background:#7952B3; padding:5px; border-radius:5px; margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30" alt="Bootstrap" />
+  </div>
   <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" style="margin-right: 10px;" alt="TailwindCSS" />
 </p>
 
 <h3 align="left">🛠 Back-End</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin-right: 10px;" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" alt="Express.js" />
+  <div style="display:inline-block; background:#303030; padding:5px; border-radius:5px; margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" alt="Express.js" />
+  </div>
 </p>
 
 <h3 align="left">🗃 Database</h3>
