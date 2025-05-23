@@ -34,23 +34,24 @@ Cerco opportunità dove poter crescere, contribuire e costruire progetti reali.<
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin-right: 10px;" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
 </p>
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
 <h3 align="left">🗃 Database</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" style="margin-right: 10px;" alt="MongoDB" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </p>
 
 <h3 align="left">⚙️ Tools & Workflow</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 10px;" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" style="margin-right: 10px;" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" style="margin-right: 10px;" alt="Vite" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,postman,npm" />
+  </a>
 </p>
 
 ###
