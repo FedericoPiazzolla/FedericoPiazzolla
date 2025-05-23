@@ -24,12 +24,9 @@ Cerco opportunità dove poter crescere, contribuire e costruire progetti reali.<
 
 <h3 align="left">👨‍🎨 Front-End</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 10px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right: 10px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin-right: 10px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" style="margin-right: 10px;" alt="TailwindCSS" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  </a>
 </p>
 
 <h3 align="left">🛠 Back-End</h3>
