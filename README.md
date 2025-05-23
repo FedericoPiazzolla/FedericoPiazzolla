@@ -35,7 +35,7 @@ Cerco opportunità dove poter crescere, contribuire e costruire progetti reali.<
 <h3 align="left">🛠 Back-End</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin-right: 10px;" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" alt="Express.js" />
 </p>
 
 <h3 align="left">🗃 Database</h3>
