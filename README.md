@@ -4,43 +4,46 @@
 
 ###
 
-<h1 align="center">Sono un Jr. Full Stack Web Developer 🚀</h1>
+<h1 align="center">👨‍💻 Junior Full Stack Web Developer</h1>
 
-###
+### 📌 Chi sono
 
-<p align="left">🎮 Sono Un ragazzo molto curioso e da sempre interessato alla tecnologia in tutti i suoi aspetti. Mi sono appassionato alla programmazione full stack, desiderando esplorare e sviluppare applicazioni complete su entrambi i fronti, front-end e back-end.<br>
+<p align="left">Mi chiamo Federico, appassionato di tecnologia e sviluppo web.  
+Durante l’università ho scoperto il mondo della programmazione e, dopo il bootcamp Boolean, ho deciso di specializzarmi come **Full Stack Developer**.
+<br>
+
+Oggi sto approfondendo lo **stack MERN** (MongoDB, Express, React, Node.js).
+<br>
+Cerco opportunità dove poter crescere, contribuire e costruire progetti reali.<br>
   <br>
-👨🏻‍💻 Ho frequentato le tech academy di Boolean, acquisendo competenze nell'utilizzo di tecnologie sia front-end che back-end, ma soprattutto il mindset utile ad apprenderne altre in futuro.<br>
-  <br>
-🌱 Desidero specializzarmi ulteriormente e sono alla ricerca di opportunità in ambienti professionali, dove potermi mettere alla prova con progetti di ampio respiro.</p>
+</p>
 
 ###
 
 <h2 align="center">💻 COMPETENZE TECNICHE</h2>
 
-###
+### 🧠 Competenze Tecniche
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-</div>
+#### 👨‍🎨 Front-End
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+#### 🛠 Back-End
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
+
+#### 🗃 Database
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+#### ⚙️ Tools & Workflow
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vite](https://skillicons.dev/icons?i=vite)
+
 
 ###
 
