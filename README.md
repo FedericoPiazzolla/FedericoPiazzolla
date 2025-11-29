@@ -52,10 +52,6 @@ Cerco opportunità dove poter crescere, contribuire e costruire progetti reali.<
 
 ###
 
-<img src="https://raw.githubusercontent.com/FedericoPiazzolla/FedericoPiazzolla/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
