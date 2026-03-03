@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="50" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=F79E2F&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B;Sono+Federico;React+Developer;Benvenuto+sul+mio+GitHub!"  />
-</div>
-
 <h1 align="center">⚛️ Frontend Developer | React • TypeScript</h1>
 
 ---
