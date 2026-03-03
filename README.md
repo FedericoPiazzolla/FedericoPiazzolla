@@ -1,67 +1,105 @@
 <div align="center">
-  <img height="50" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=F79E2F&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B;Sono+Federico;benvenuto+sul+mio+profilo+GitHub!"  />
+  <img height="50" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=F79E2F&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B;Sono+Federico;React+Developer;Benvenuto+sul+mio+GitHub!"  />
 </div>
 
-###
+<h1 align="center">⚛️ Frontend Developer | React • TypeScript</h1>
 
-<h1 align="center">👨‍💻 Junior Full Stack Web Developer</h1>
+---
 
-### 📌 Chi sono
+## 👋 Chi sono
 
-<p align="left">Mi chiamo Federico, appassionato di tecnologia e sviluppo web.  
-Durante l’università ho scoperto il mondo della programmazione e, dopo il bootcamp Boolean, ho deciso di specializzarmi come Full Stack Developer.
-<br>
+Ciao! Mi chiamo **Federico Piazzolla** e sono uno sviluppatore JavaScript con focus su **React e TypeScript**.
 
-Oggi sto approfondendo lo **stack MERN** (MongoDB, Express, React, Node.js).
-<br>
-Cerco opportunità dove poter crescere, contribuire e costruire progetti reali.<br>
-  <br>
+Attualmente lavoro come **JavaScript Developer** dove mi occupo di implementare logiche applicative e gestione dati su sistemi enterprise. Parallelamente sviluppo progetti personali per approfondire tecnologie moderne come **React, Next.js e lo stack MERN**.
+
+Mi piace costruire applicazioni web pulite, component-based e scalabili, con particolare attenzione a **architettura del codice, riusabilità dei componenti e integrazione con API**.
+
+📍 Roma, Italia  
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
 </p>
 
-###
-
-### 🧠 Competenze Tecniche
-
-<h3 align="left">👨‍🎨 Front-End</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-  </a>
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<h3 align="left">🛠 Back-End</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-<h3 align="left">🗃 Database</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
 </p>
 
-<h3 align="left">⚙️ Tools & Workflow</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,postman,npm" />
-  </a>
-</p>
+---
 
-###
+## 🧩 Progetti
 
-<br clear="both">
+### 🏋️ Calisthenics Tracker
+Applicazione per tracciare allenamenti, esercizi e progressi.
+
+Tech:
+React • TypeScript • LocalStorage
+
+Funzionalità:
+- gestione schede allenamento
+- tracking esercizi
+- organizzazione per categorie
+- base per statistiche e progress tracking
+
+---
+
+### 💼 Job Tracker (MERN)
+Applicazione full stack per monitorare candidature lavorative.
+
+Tech:
+MongoDB • Express • React • Node.js
+
+Funzionalità:
+- autenticazione JWT
+- CRUD completo candidature
+- gestione stato application
+- dashboard tracking
+
+---
+
+### 🥗 Sito Web Nutrizionista
+Sito sviluppato per uno studio nutrizionale.
+
+Tech:
+React • JavaScript • TailwindCSS • EmailJS
+
+Funzionalità:
+- landing page professionale
+- form contatti con invio email
+- design responsive mobile-first
+
+---
+
+## 📚 Attualmente sto studiando
+
+- Next.js
+- TypeScript avanzato
+- architettura applicazioni React
+- sviluppo applicazioni web e mobile
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/federico-piazzolla/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
+
+### 📫 Contatti
+
+<a href="https://www.linkedin.com/in/federico-piazzolla/">
+<img src="https://img.shields.io/badge/LinkedIn-Federico%20Piazzolla-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 </div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FedericoPiazzolla.FedericoPiazzolla&right_color=mediumpurple&left_text=Profile%20Views"  />
-
-###
