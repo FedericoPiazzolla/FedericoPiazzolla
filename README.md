@@ -38,49 +38,6 @@ Mi piace costruire applicazioni web pulite, component-based e scalabili, con par
 
 ---
 
-## 🧩 Progetti
-
-### 🏋️ Calisthenics Tracker
-Applicazione per tracciare allenamenti, esercizi e progressi.
-
-Tech:
-React • TypeScript • LocalStorage
-
-Funzionalità:
-- gestione schede allenamento
-- tracking esercizi
-- organizzazione per categorie
-- base per statistiche e progress tracking
-
----
-
-### 💼 Job Tracker (MERN)
-Applicazione full stack per monitorare candidature lavorative.
-
-Tech:
-MongoDB • Express • React • Node.js
-
-Funzionalità:
-- autenticazione JWT
-- CRUD completo candidature
-- gestione stato application
-- dashboard tracking
-
----
-
-### 🥗 Sito Web Nutrizionista
-Sito sviluppato per uno studio nutrizionale.
-
-Tech:
-React • JavaScript • TailwindCSS • EmailJS
-
-Funzionalità:
-- landing page professionale
-- form contatti con invio email
-- design responsive mobile-first
-
----
-
 ## 📚 Attualmente sto studiando
 
 - Next.js
